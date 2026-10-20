@@ -9,10 +9,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas do GitHub" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api?username=guilherme12moura24-cpu&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas do GitHub" height="170" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6" alt="Linguagens mais usadas" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme12moura24-cpu&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6" alt="Linguagens mais usadas" height="170" />
     </td>
   </tr>
 </table>
